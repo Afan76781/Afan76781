@@ -26,9 +26,9 @@
 </p>
 
 </p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=James404-cyber&repo=HACKPRO&theme=chartreuse-dark" />
+<img align="center" src="Ihttps://rawcdn.githack.com/Afan76781/git_Files/cdbac7495ccc99c63daf0ad1a59a1812bc98a625/index.svg" />
 <p align="center">
 <a href="https://github.com/James404-cyber/PROHACK"><img title="PROHACK" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK&theme=vision-friendly-dark"></a>
-<a href="https://github.com/James404-cyber/Number"><img title="NUMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=Number&theme=vision-friendly-dark"></a>
+<a href="https://github.com/James404-cyber/Number"><img title="NUMBER" src="https://rawcdn.githack.com/Afan76781/git_Files/cdbac7495ccc99c63daf0ad1a59a1812bc98a625/index.svg"></a>
 <a href="https://github.com/James404-cyber/PROHACK-FILE"><img title="PROHACK-FILE" src="[https://github-readme-stats.vercel.app/api/pin/?username=James404-cyber&repo=PROHACK-FILE&theme=tokyonight](https://rawcdn.githack.com/Afan76781/git_Files/c816031d80a495bf9cb94a733725bde1c892eace/untitled.html)https://rawcdn.githack.com/Afan76781/git_Files/c816031d80a495bf9cb94a733725bde1c892eace/untitled.html"></a>
 </p>
